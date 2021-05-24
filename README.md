@@ -1,5 +1,5 @@
 # Hello! I’m ***Jacob Andes*** 👋
-I'm currently working my way through Springboard's Web Development Bootcamp!
+I'm currently working my way through Springboard's Software Engineering Bootcamp!
 - 👀  I’m interested in web development and Python 🐍
 - 🌱 I’m currently learning Full Stack Web Development via JavaScript, React, Python, Node.js, Express, Flask, and PostgreSQL
 - 🧩 I’m looking to collaborate on anything fun and interesting, and I'll be looking for my first dev job soon!
