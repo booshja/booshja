@@ -4,7 +4,7 @@
 
 ## 👷 I'm currently building [PaintingJoy.art](https://www.paintingjoy.art)
 
-- [Planning/Research](https://www.github.com/booshja/Painting-Joy-School-Docs)
+- [Planning / Research](https://www.github.com/booshja/Painting-Joy-School-Docs)
 - [React App Front End](https://www.github.com/booshja/Painting-Joy-frontend)
 - [Express API Back End](https://www.github.com/booshja/Painting-Joy-backend)
 
