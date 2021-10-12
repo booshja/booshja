@@ -2,9 +2,8 @@
 
 ## I'm currently looking for my first Software Engineering role! 🎉
 
-## 👷 I'm currently building [PaintingJoy.art](https://www.paintingjoy.art)
+## 👷 I recently finished building [PaintingJoy.art](https://www.paintingjoy.art) (Live soon!)
 
-- [Planning / Research](https://www.github.com/booshja/Painting-Joy-School-Docs)
 - [React App Front End](https://www.github.com/booshja/Painting-Joy-frontend)
 - [Express API Back End](https://www.github.com/booshja/Painting-Joy-backend)
 
