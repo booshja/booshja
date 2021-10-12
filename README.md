@@ -9,8 +9,8 @@
 
 ## 👷 I'm currently rebuilding [JacobAndes.dev](https://www.jacobandes.dev)
 
-- [TypeScript / React App Front End](https://github.com/booshja/portfolio_v3_TS_React)
-- [TypeScript / Express API Back End](https://www.github.com/booshja/portfolio_v3_TS_Express)
+- [TypeScript && React App Front End](https://github.com/booshja/portfolio_v3_TS_React)
+- [TypeScript && Express API Back End](https://www.github.com/booshja/portfolio_v3_TS_Express)
 
 ## About Me!
 
