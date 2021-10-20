@@ -2,7 +2,7 @@
 
 ## I'm currently looking for my first Software Engineering role! 🎉
 
-## 👷 I recently finished building [PaintingJoy.art](https://www.paintingjoy.art) (Live soon!)
+## 👷 I recently finished building [PaintingJoy.art](https://www.paintingjoy.art)!
 
 - [React App Front End](https://www.github.com/booshja/Painting-Joy-frontend)
 - [Express API Back End](https://www.github.com/booshja/Painting-Joy-backend)
@@ -10,7 +10,7 @@
 ## 👷 I'm currently rebuilding [JacobAndes.dev](https://www.jacobandes.dev)
 
 - [TypeScript && React App Front End](https://github.com/booshja/portfolio_v3_TS_React)
-- [TypeScript && Express API Back End](https://www.github.com/booshja/portfolio_v3_TS_Express)
+- [TypeScript && GraphQL API Back End](https://www.github.com/booshja/portfolio_v3_TS_Express)
 
 ## About Me!
 
