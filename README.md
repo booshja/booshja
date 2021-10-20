@@ -10,11 +10,11 @@
 ## 👷 I'm currently rebuilding [JacobAndes.dev](https://www.jacobandes.dev)
 
 - [TypeScript && React App Front End](https://github.com/booshja/portfolio_v3_TS_React)
-- [TypeScript && GraphQL API Back End](https://www.github.com/booshja/portfolio_v3_TS_Express)
+- [TypeScript && GraphQL API Back End](https://github.com/booshja/portfolio_v3_TS_GraphQL)
 
 ## About Me!
 
-- 🧑‍💻 I’m a Full Stack Software Engineer whose primary stack includes: JavaScript, TypeScript, React, Styled-Components, SASS, Python, Node, Express, Flask, and PostgreSQL
+- 🧑‍💻 I’m a Full Stack Software Engineer whose primary stack includes: JavaScript, TypeScript, React, Styled-Components, SASS, Python, Node, Express, GraphQL, Flask, and PostgreSQL
 - 👀  I’m interested in web development, my dogs, hockey, and anything that involves learning new things! 📖
 - 🌱 I'm about to graduate from [Springboard's](https://www.springboard.com/) Software Engineering Career Track Program
 - 🧩 I’m looking to collaborate on anything fun and interesting!
