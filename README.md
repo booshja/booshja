@@ -16,7 +16,7 @@
 
 - 🧑‍💻 I’m a Full Stack Software Engineer whose primary stack includes: JavaScript, TypeScript, React, Styled-Components, SASS, Python, Node, Express, GraphQL, Flask, and PostgreSQL
 - 👀  I’m interested in web development, my dogs, hockey, and anything that involves learning new things! 📖
-- 🌱 I'm about to graduate from [Springboard's](https://www.springboard.com/) Software Engineering Career Track Program
+- 🌱 I'm graduating from [Springboard's](https://www.springboard.com/) Software Engineering Career Track Program Bootcamp
 - 🧩 I’m looking to collaborate on anything fun and interesting!
 - 😄 Pronouns: he/him/his
 - 💬 How to reach me: [Twitter](https://www.twitter.com/booshja), [LinkedIn](https://www.linkedin.com/in/jacobandes), and my personal site at [YourNewest.Dev](https://www.yournewest.dev)
