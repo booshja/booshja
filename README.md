@@ -4,8 +4,7 @@
 
 ## 👷 In my free time I'm currently rebuilding [JacobAndes.dev](https://www.jacobandes.dev)
 
-- [TypeScript && React App Front End](https://github.com/booshja/portfolio_v3_TS_React)
-- [TypeScript && GraphQL API Back End](https://github.com/booshja/portfolio_v3_TS_GraphQL)
+- [Express/React App](https://github.com/booshja/portfolio-v3)
 
 ## About Me!
 
