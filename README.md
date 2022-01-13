@@ -4,8 +4,8 @@
 
 ## 👷 In my free time I'm currently rebuilding [JacobAndes.dev](https://www.jacobandes.dev)
 
-- [React App](https://github.com/booshja/portfolio-v3-frontend)
-- [Express/Postgres API](https://github.com/booshja/portfolio-v3-backend)
+- [React App Front End](https://github.com/booshja/portfolio-v3-frontend)
+- [Express/Postgres API Back End](https://github.com/booshja/portfolio-v3-backend)
 
 ## About Me!
 
