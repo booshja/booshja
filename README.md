@@ -1,6 +1,6 @@
 # Hello! I’m ***Jacob Andes*** 👋
 
-## I'm a Software Engineer with bttn 🎉
+## I'm a Software Engineer with [bttn](bttnusa.com) 🎉
 
 ## 👷 In my free time I'm currently rebuilding [JacobAndes.dev](https://www.jacobandes.dev)
 
