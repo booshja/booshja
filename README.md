@@ -4,7 +4,8 @@
 
 ## 👷 In my free time I'm currently rebuilding [JacobAndes.dev](https://www.jacobandes.dev)
 
-- [Nextjs App](https://github.com/booshja/portfolio-v3-next)
+Check out the Nextjs App [here!](https://github.com/booshja/portfolio-v3-next)
+I'm also working on building a personal blog based on [Maximilian Schwarzmüller's Udemy Next.js course](https://bttn.udemy.com/course/nextjs-react-the-complete-guide) and you can check that out [here!](https://github.com/booshja/booshja-blog)
 
 ## About Me!
 
