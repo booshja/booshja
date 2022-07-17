@@ -11,8 +11,10 @@ I'm also working on building a personal blog based on Maximilian Schwarzmüller'
 
 - 🧑‍💻 I’m a Software Engineer with experience across the stack.
   - I'm Currently Using:
-    - JavaScript (React, Next, Redux (ToolKit & Query), Express, Node, styled-components)
-    - Python (Django, Celery)
+    - JavaScript 
+      - React, Next, Redux (ToolKit & Query), Express, Node, styled-components, Emotion
+    - Python
+      - Django, Celery
     - MongoDB
     - PostgreSQL
     - Figma
