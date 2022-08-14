@@ -5,7 +5,7 @@
 ## 👷 In my free time I'm currently rebuilding [JacobAndes.dev](https://www.jacobandes.dev)
 
 Check out the Nextjs App [here!](https://github.com/booshja/portfolio-v3-next)  
-I'm also working on building a personal blog based on Maximilian Schwarzmüller's [Udemy Next.js course](https://bttn.udemy.com/course/nextjs-react-the-complete-guide) and you can check that out [here!](https://github.com/booshja/booshja-blog)
+I'm also working on building a personal blog based on Maximilian Schwarzmüller's [Udemy Next.js course](https://bttn.udemy.com/course/nextjs-react-the-complete-guide).
 
 ## About Me!
 
@@ -14,7 +14,7 @@ I'm also working on building a personal blog based on Maximilian Schwarzmüller'
     - JavaScript 
       - React, Next, Redux (ToolKit & Query), Express, Node, styled-components, Emotion
     - Python
-      - Django, Celery
+      - Django, DjangoRESTFramework, Celery
     - MongoDB
     - PostgreSQL
     - Figma
