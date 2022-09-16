@@ -15,7 +15,7 @@
 
 ### Planning to Build/Rebuild:
 
-- SetPlaylist, my first capstone from bootcamp. An app to create Spotify playlists based off live concert setlists.
+- SetPlaylist, [my first capstone from bootcamp](https://github.com/booshja/setplaylist-python). An app to create Spotify playlists based off live concert setlists.
 
 ## About Me!
 
