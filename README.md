@@ -2,21 +2,33 @@
 
 ## I'm a Software Engineer with [bttn](https://bttnusa.com) 🎉
 
-## 👷 In my free time I'm currently rebuilding [JacobAndes.dev](https://www.jacobandes.dev)
+## 👷 In my free coding time I'm currently: 
 
-Check out the Nextjs App [here!](https://github.com/booshja/portfolio-v3-next)  
-I'm also working on building a personal blog based on Maximilian Schwarzmüller's [Udemy Next.js course](https://bttn.udemy.com/course/nextjs-react-the-complete-guide).
+### Rebuilding: 
+
+- My portfolio, [JacobAndes.dev](https://www.jacobandes.dev)
+
+### Building:
+
+- My blog, [importfrom.dev](https://www.importfrom.dev)
+- A pleasurable activity selector tool, (no link quite yet, still in design phase)
+
+### Planning to Build/Rebuild:
+
+- SetPlaylist, my first capstone from bootcamp. An app to create Spotify playlists based off live concert setlists.
 
 ## About Me!
 
 - 🧑‍💻 I’m a Software Engineer with experience across the stack.
   - I'm Currently Using:
-    - JavaScript 
+    - JavaScript and TypeScript
       - React, Next, Redux (ToolKit & Query), Express, Node, styled-components, Emotion
     - Python
-      - Django, DjangoRESTFramework, Celery
-    - MongoDB
-    - PostgreSQL
+      - FastAPI, Django, DjangoRESTFramework, Celery, SQLAlchemy
+    - Databases
+      - MongoDB
+      - PostgreSQL
+      - SQLite
     - Figma
     - ClickUp
   - 👨🏻‍🚀 I've also got some level of experience with:
