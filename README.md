@@ -1,21 +1,21 @@
 # Hello! I’m ***Jacob Andes*** 👋
 
-## I'm a Software Engineer with [bttn](https://bttnusa.com) 🎉
+## I'm a Software Engineer II, Core Platform Team with [bttn](https://bttnusa.com) 🎉
 
 ## 👷 In my free coding time I'm currently: 
 
-### Rebuilding: 
-
-- My portfolio, [JacobAndes.dev](https://www.jacobandes.dev)
-
 ### Building:
 
-- My blog, [importfrom.dev](https://www.importfrom.dev)
-- A pleasurable activity selector tool, (no link quite yet, still in design phase)
+- [A pleasurable activity selector tool](https://github.com/booshja/pleasurable-activities)
 
-### Planning to Build/Rebuild:
+### Rebuilding:
 
-- SetPlaylist, [my first capstone from bootcamp](https://github.com/booshja/setplaylist-python). An app to create Spotify playlists based off live concert setlists.
+- [SetPlaylist](https://github.com/booshja/setplaylist-ts), my [first capstone from bootcamp](https://github.com/booshja/setplaylist-python). An app to create Spotify playlists based off live concert setlists.
+
+### Recently Built:
+
+- My portfolio, [JacobAndes.dev](https://www.jacobandes.dev) - This was a rebuild, and just the latest iteration!
+- My blog, [importfrom.dev](https://www.importfrom.dev) - Where I write about Front End Web Development
 
 ## About Me!
 
@@ -40,4 +40,4 @@
 - 🌱 I graduated from [Springboard's](https://www.springboard.com/) Software Engineering Career Track Program Bootcamp
 - 🧩 I’m always happy to collaborate on anything fun and interesting!
 - 😄 Pronouns: he/him/his
-- 💬 How to reach me: [Twitter](https://www.twitter.com/booshja), [LinkedIn](https://www.linkedin.com/in/jacobandes), and my personal site at [JacobAndes.dev](https://www.jacobandes.dev)
+- 💬 How to reach me: [Twitter](https://www.twitter.com/booshja), [LinkedIn](https://www.linkedin.com/in/jacobandes), my personal site at [JacobAndes.dev](https://www.jacobandes.dev), or my personal blog at [importfrom.dev](https://www.importfrom.dev)
