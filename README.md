@@ -1,6 +1,6 @@
 # Hello! I’m ***Jacob Andes*** 👋
 
-## I'm a Software Engineer II, Core Platform Team with [bttn](https://bttnusa.com) 🎉
+## I'm a Software Engineer with [Revere CRE](https://www.reverecre.com/) 🎉
 
 ## 👷 In my free coding time I'm currently: 
 
