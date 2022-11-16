@@ -2,17 +2,24 @@
 
 ## I'm a Software Engineer with [Revere CRE](https://www.reverecre.com/) 🎉
 
-## 👷 In my free coding time I'm currently: 
+## 👷 In my free coding time I'm currently:
+
+### Learning:
+
+- Tailwind CSS
+- GraphQL with Relay
+- Nexus
+- Prisma
 
 ### Building:
 
 - [A pleasurable activity selector tool](https://github.com/booshja/pleasurable-activities)
 
-### Rebuilding:
+### Planning to Rebuild:
 
 - [SetPlaylist](https://github.com/booshja/setplaylist-ts), my [first capstone from bootcamp](https://github.com/booshja/setplaylist-python). An app to create Spotify playlists based off live concert setlists.
 
-### Recently Built:
+### Recently Completed Building:
 
 - My portfolio, [JacobAndes.dev](https://www.jacobandes.dev) - This was a rebuild, and just the latest iteration!
 - My blog, [importfrom.dev](https://www.importfrom.dev) - Where I write about Front End Web Development
