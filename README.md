@@ -13,11 +13,11 @@
 
 ### Building:
 
-- [A pleasurable activity selector tool](https://github.com/booshja/pleasurable-activities)
+- [Pleasurable activity selector](https://github.com/booshja/pleasurable-activities) - An app to help you choose a pleasurable activity to do!
 
 ### Planning to Rebuild:
 
-- [SetPlaylist](https://github.com/booshja/setplaylist-ts), my [first capstone from bootcamp](https://github.com/booshja/setplaylist-python). An app to create Spotify playlists based off live concert setlists.
+- [SetPlaylist](https://github.com/booshja/setplaylist-ts), my [first capstone from bootcamp](https://github.com/booshja/setplaylist-python) - An app to create Spotify playlists based off live concert setlists.
 
 ### Recently Completed Building:
 
