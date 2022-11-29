@@ -1,6 +1,6 @@
 # Hello! I’m ***Jacob Andes*** 👋
 
-## I'm a Software Engineer with [Revere CRE](https://www.reverecre.com/) 🎉
+## I'm a Software Engineer currently looking for my next role! 🎉
 
 ## 👷 In my free coding time I'm currently:
 
