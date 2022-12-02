@@ -13,7 +13,7 @@
 
 ### Building:
 
-- [Pleasurable activity selector](https://github.com/booshja/pleasurable-activities) - An app to help you choose a pleasurable activity to do!
+- [Happy Brain](https://github.com/booshja/pleasurable-activities) - An app to help you choose a pleasurable activity to do!
 
 ### Planning to Rebuild:
 
