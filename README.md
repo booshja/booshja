@@ -6,14 +6,14 @@
 
 ### Learning:
 
+#### Currently:
+
 - Tailwind CSS
-- GraphQL with Relay
-- Nexus
-- Prisma
+- Next.js v13 (new app directory)
 
 ### Building:
 
-- [Happy Brain](https://github.com/booshja/pleasurable-activities) - An app to help you choose a pleasurable activity to do!
+- [Happy Harmony](https://github.com/booshja/pleasurable-activities) - An app to help you choose a pleasurable activity to do!
 
 ### Planning to Rebuild:
 
