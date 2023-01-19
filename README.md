@@ -10,6 +10,7 @@
 
 - Tailwind CSS
 - Next.js v13 (new app directory)
+- Rust
 
 ### Building:
 
