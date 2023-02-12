@@ -8,9 +8,10 @@
 
 #### Currently:
 
+- Ruby
+- Ruby on Rails
 - Tailwind CSS
 - Rust
-- Ruby
 
 ### Building:
 
