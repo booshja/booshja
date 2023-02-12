@@ -1,16 +1,16 @@
 # Hello! I’m ***Jacob Andes*** 👋
 
-## I'm a Software Engineer currently looking for my next role! 🎉
+## I'm a Software Engineer 🎉
 
-## 👷 In my free coding time I'm currently:
+## 👷 In my free coding time I'm:
 
 ### Learning:
 
 #### Currently:
 
 - Tailwind CSS
-- Next.js v13 (new app directory)
 - Rust
+- Ruby
 
 ### Building:
 
@@ -30,7 +30,7 @@
 - 🧑‍💻 I’m a Software Engineer with experience across the stack.
   - I'm Currently Using:
     - JavaScript and TypeScript
-      - React, Next, Redux (ToolKit & Query), Express, Node, styled-components, Emotion
+      - React, Next.js, Redux (ToolKit & Query), Express, Node, styled-components, Emotion
     - Python
       - FastAPI, Django, DjangoRESTFramework, Celery, SQLAlchemy
     - Databases
@@ -48,4 +48,4 @@
 - 🌱 I graduated from [Springboard's](https://www.springboard.com/) Software Engineering Career Track Program Bootcamp
 - 🧩 I’m always happy to collaborate on anything fun and interesting!
 - 😄 Pronouns: he/him/his
-- 💬 How to reach me: [Twitter](https://www.twitter.com/booshja), [LinkedIn](https://www.linkedin.com/in/jacobandes), my personal site at [JacobAndes.dev](https://www.jacobandes.dev), or my personal blog at [importfrom.dev](https://www.importfrom.dev)
+- 💬 How to reach me: [LinkedIn](https://www.linkedin.com/in/jacobandes), my personal site at [JacobAndes.dev](https://www.jacobandes.dev), or my personal blog at [importfrom.dev](https://www.importfrom.dev), or [Twitter](https://www.twitter.com/booshja)
