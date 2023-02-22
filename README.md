@@ -1,6 +1,6 @@
 # Hello! I’m ***Jacob Andes*** 👋
 
-## I'm a Software Engineer 🎉
+## I'm a Software Engineer at Smartsheet! 🎉
 
 ## 👷 In my free coding time I'm:
 
