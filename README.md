@@ -6,8 +6,6 @@
 
 ### Learning:
 
-#### Currently:
-
 - Ruby
 - Ruby on Rails
 - Svelte/SvelteKit
