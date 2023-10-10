@@ -8,7 +8,6 @@
 
 - Ruby
 - Ruby on Rails
-- Svelte/SvelteKit
   
 ### Building:
 
