@@ -12,7 +12,7 @@
   
 ### Building:
 
-- [Happy Harmony](https://github.com/booshja/pleasurable-activities) - An app to help you choose a pleasurable activity to do!
+- [Happy Harmony](https://github.com/booshja/happy-harmony) - An app to help you choose a pleasurable activity to do!
 - [Portfolio v4](https://github.com/booshja/portfolio-v4) - The latest iteration of my personal portfolio, built with Svelte!
 
 ### Planning to Rebuild:
