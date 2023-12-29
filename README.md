@@ -6,13 +6,13 @@
 
 ### Learning:
 
-- Ruby
-- Ruby on Rails
+- Java
+- Spring Boot
   
 ### Building:
 
 - [Happy Harmony](https://github.com/booshja/happy-harmony) - An app to help you choose a pleasurable activity to do!
-- [Portfolio v4](https://github.com/booshja/portfolio-v4) - The latest iteration of my personal portfolio, built with Svelte!
+- [Portfolio v4](https://github.com/booshja/portfolio-v4) - The latest iteration of my personal portfolio!
 
 ### Planning to Rebuild:
 
@@ -30,11 +30,13 @@
     - JavaScript and TypeScript
       - React, Next.js, Redux (ToolKit & Saga), Emotion
     - CoffeeScript and Backbone
+    - Java
+    - Spring Boot
     - Ruby
       - Rspec
     - Ruby on Rails
       - Capybara
-      - PostgreSQL
+    - PostgreSQL
     - Figma
   - 👨🏻‍🚀 I've also got some level of experience with:
     - Work Experience:
@@ -46,12 +48,11 @@
         - MongoDB
         - SQLite
       - ClickUp
-    - Other Experience:
+    - Other:
       - Svelte/SvelteKit
       - Flask
-      - Java
 - 👀  I’m interested in web development, my dogs, hockey, and anything that involves learning new things! 📖
-- 🌱 I graduated from [Springboard's](https://www.springboard.com/) Software Engineering Career Track Program Bootcamp in 2021
+- 🌱 I graduated from [Springboard's](https://www.springboard.com/) Software Engineering Career Track Program Bootcamp
 - 🧩 I’m always happy to collaborate on anything fun and interesting!
 - 😄 Pronouns: he/him/his
-- 💬 How to reach me: [LinkedIn](https://www.linkedin.com/in/jacobandes), my personal site at [JacobAndes.dev](https://www.jacobandes.dev), or my personal blog at [importfrom.dev](https://www.importfrom.dev)
+- 💬 How to reach me: [LinkedIn](https://www.linkedin.com/in/jacobandes)
