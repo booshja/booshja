@@ -55,4 +55,4 @@
 - 🌱 I graduated from [Springboard's](https://www.springboard.com/) Software Engineering Career Track Program Bootcamp
 - 🧩 I’m always happy to collaborate on anything fun and interesting!
 - 😄 Pronouns: he/him/his
-- 💬 How to reach me: [LinkedIn](https://www.linkedin.com/in/jacobandes)
+- 💬 How to reach me: [LinkedIn](https://www.linkedin.com/in/jacobandes) or [Email](mailto:jacobandesdev@gmail.com)
