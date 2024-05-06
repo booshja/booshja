@@ -8,11 +8,12 @@
 
 - Java
 - Spring Boot
+- Kotlin
+- Ktor
   
 ### Building:
 
-- [Happy Harmony](https://github.com/booshja/happy-harmony) - An app to help you choose a pleasurable activity to do!
-- [Portfolio v4](https://github.com/booshja/portfolio-v4) - The latest iteration of my personal portfolio!
+- [Happy Harmony](https://github.com/booshja/happy-harmony) - An app to help you keep track of and choose a pleasurable activity to do!
 
 ### Planning to Rebuild:
 
@@ -20,16 +21,18 @@
 
 ### Live Projects:
 
-- My portfolio, [JacobAndes.dev](https://www.jacobandes.dev) - This was a rebuild, and just the latest iteration, v3!
+- My portfolio, [JacobAndes.dev](https://www.jacobandes.dev) - This was a rebuild, and just the latest iteration, v4! ([Find the code here](https://github.com/booshja/portfolio-v4))
 - My blog, [importfrom.dev](https://www.importfrom.dev) - Where I write about Front End Web Development
+- A script to gather times for practicing hockey and adding them to a Google Calendar, [stick-and-puck](https://github.com/booshja/stick-and-puck)
 
 ## About Me!
 
 - 🧑‍💻 I’m a Software Engineer with experience across the stack.
   - I'm Currently Using:
-    - JavaScript and TypeScript
+    - TypeScript
       - React, Next.js, Redux (ToolKit & Saga), Emotion
-    - CoffeeScript and Backbone
+    - Kotlin
+    - Ktor
     - Java
     - Spring Boot
     - Ruby
@@ -37,11 +40,13 @@
     - Ruby on Rails
       - Capybara
     - PostgreSQL
+    - Terragrunt and Terraform
     - Figma
   - 👨🏻‍🚀 I've also got some level of experience with:
     - Work Experience:
       - JavaScript/Node
         - Redux Query, Express, styled-components
+      - CoffeeScript and Backbone
       - Python
         - FastAPI, Django, DjangoRESTFramework, Celery, SQLAlchemy
       - Databases
