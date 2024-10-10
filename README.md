@@ -1,6 +1,6 @@
 # Hello! I’m ***Jacob Andes*** 👋
 
-## I'm a Software Engineer at Smartsheet! 🎉
+## I'm a Software Engineer II at Smartsheet! 🎉
 
 ## 👷 In my free coding time I'm:
 
@@ -14,10 +14,8 @@
 ### Building:
 
 - [Happy Harmony](https://github.com/booshja/happy-harmony) - An app to help you keep track of and choose a pleasurable activity to do!
-
-### Planning to Rebuild:
-
-- [SetPlaylist](https://github.com/booshja/setplaylist-ts), my [first capstone from bootcamp](https://github.com/booshja/setplaylist-python) - An app to create Spotify playlists based off live concert setlists.
+- [SetPlaylist Frontend](https://github.com/booshja/setplaylist-client), my [first capstone from bootcamp](https://github.com/booshja/setplaylist-python) - An app to create Spotify playlists based off live concert setlists.
+- [SetPlaylist Backend](https://github.com/booshja/setplaylist-service), the backend to the same project, built in Kotlin with Ktor
 
 ### Live Projects:
 
