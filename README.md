@@ -13,14 +13,18 @@
   
 ### Building:
 
+- [Seattle Ice Time](https://github.com/booshja/seattle-ice-time) - An app to aggregate Hockey Stick & Puck and Drop-In Games at the rinks in the Greater Seattle Area with a Google Calendar-inspired UI
 - [Happy Harmony](https://github.com/booshja/happy-harmony) - An app to help you keep track of and choose a pleasurable activity to do!
+
+### Planning on Building:
+
 - [SetPlaylist Frontend](https://github.com/booshja/setplaylist-client), my [first capstone from bootcamp](https://github.com/booshja/setplaylist-python) - An app to create Spotify playlists based off live concert setlists.
 - [SetPlaylist Backend](https://github.com/booshja/setplaylist-service), the backend to the same project, built in Kotlin with Ktor
 
 ### Live Projects:
 
 - My portfolio, [JacobAndes.dev](https://www.jacobandes.dev) - This was a rebuild, and just the latest iteration, v4! ([Find the code here](https://github.com/booshja/portfolio-v4))
-- My blog, [importfrom.dev](https://www.importfrom.dev) - Where I write about Front End Web Development
+- My blog, [importfrom.dev](https://www.importfrom.dev) - Where I write about Front End Web Development (unfortunately this has been dormant as my current company is very worried about me giving away any hints as to what we're working on behind the scenes)
 - A script to gather times for practicing hockey and adding them to a Google Calendar, [stick-and-puck](https://github.com/booshja/stick-and-puck)
 
 ## About Me!
@@ -28,23 +32,22 @@
 - 🧑‍💻 I’m a Software Engineer with experience across the stack.
   - I'm Currently Using:
     - TypeScript
-      - React, Next.js, Redux (ToolKit & Saga), Emotion
+      - React, Next.js, Redux (Vanilla, ToolKit, & Saga), Emotion
     - Kotlin
-    - Ktor
+      - Ktor
     - Java
-    - Spring Boot
-    - Ruby
-      - Rspec
-    - Ruby on Rails
-      - Capybara
+      - Spring Boot
     - PostgreSQL
     - Terragrunt and Terraform
     - Figma
+    - AWS
   - 👨🏻‍🚀 I've also got some level of experience with:
     - Work Experience:
       - JavaScript/Node
         - Redux Query, Express, styled-components
       - CoffeeScript and Backbone
+      - Ruby
+        - Ruby on Rails, Rspec, Capybara
       - Python
         - FastAPI, Django, DjangoRESTFramework, Celery, SQLAlchemy
       - Databases
