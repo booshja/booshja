@@ -24,7 +24,8 @@
 ### Live Projects:
 
 - My portfolio, [JacobAndes.dev](https://www.jacobandes.dev) - This was a rebuild, and just the latest iteration, v4! ([Find the code here](https://github.com/booshja/portfolio-v4))
-- My blog, [importfrom.dev](https://www.importfrom.dev) - Where I write about Front End Web Development (unfortunately this has been dormant as my current company is very worried about me giving away any hints as to what we're working on behind the scenes)
+- My blog, [importfrom.dev](https://www.importfrom.dev) - Where I write about Front End Web Development (unfortunately this has been dormant as my current company is very worried about me giving away any hints as to what we're working on behind the scenes 😉)
+- [My Stretching App](https://stretch.jacobandes.dev) - This was a vibe-coded experiment to play around with gen AI capabilities. An app for stretching routines for myself! ([Find the code here](https://github.com/booshja/my-stretching-app))
 - A script to gather times for practicing hockey and adding them to a Google Calendar, [stick-and-puck](https://github.com/booshja/stick-and-puck)
 
 ## About Me!
@@ -34,7 +35,7 @@
     - TypeScript
       - React, Next.js, Redux (Vanilla, ToolKit, & Saga), Emotion
     - Kotlin
-      - Ktor
+      - Ktor / Spring Boot
     - Java
       - Spring Boot
     - PostgreSQL
